@@ -77,44 +77,10 @@
 <!-- My Github Stats -->
 <img  src="https://github-readme-stats.vercel.app/api?username=kuntal811&show_icons=true&theme=dark&icon_color=6392DF" alt="kuntal811 github stats">
 <!--
-<h2 align="center">My Repositories</h2>
 
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/Umang-19/JARVIS-AI-VOICE-ASSISTANT" title="JARVIS AI VOICE ASSISTANT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=JARVIS-AI-VOICE-ASSISTANT&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/Umang-19/HelloWorld" title="Hack36 Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=HelloWorld&theme=tokyonight"></a>
-</p>
-<br><br>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/Umang-19/Python-15-Mini-Projects" title="Python 15 Mini Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Python-15-Mini-Projects&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/Umang-19/devjam" title="Hackathon Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=devjam&theme=tokyonight"></a>
-</p>
-<br><br>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/Umang-19/Flappy-Bird-Game" title="Flappy Bird Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Flappy-Bird-Game&theme=tokyonight"></a>
-  <a align="right" href="https://github.com/Umang-19/Matplotlib-Data-Visualization" title="Matplotlib Reference"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umang-19&repo=Matplotlib-Data-Visualization&theme=tokyonight"></a>
-</p>
 <br><br>
 -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal811&theme=dark" alt="kuntal811" /></p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuntal811&theme=dark" alt="kuntal811" /></a> </p>
-
-<!--#####################################################################################################################
-#########################################################################################################################
-#########################################################################################################################
-#########################################################################################################################
-**kuntal811/kuntal811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
