@@ -78,7 +78,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=kuntal811&show_icons=true&theme=dark&icon_color=6392DF" alt="kuntal811 github stats">
 
 
--->
+
 
 <h2 align="center">My Repositories</h2>
 
@@ -89,8 +89,14 @@
 </p>
 <br><br>
 
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/kuntal811/PHP-MVC-Framework" title="MVC Framework - PHP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=automatic-attendance-using-face-recognition&theme=dark"></a>
 
--->
+
+</p>
+<br><br>
+
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal811&theme=dark" alt="kuntal811" /></p>
