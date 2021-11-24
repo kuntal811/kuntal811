@@ -76,10 +76,23 @@
 
 <!-- My Github Stats -->
 <img  src="https://github-readme-stats.vercel.app/api?username=kuntal811&show_icons=true&theme=dark&icon_color=6392DF" alt="kuntal811 github stats">
-<!--
 
-<br><br>
+
 -->
+
+<h2 align="center">My Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/kuntal811/automatic-attendance-using-face-recognition" title="Auto Attendance using Face Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=automatic-attendance-using-face-recognition&theme=dark"></a>
+    <a align="left" href="https://github.com/kuntal811/KSMeet-Video-Chat" title="KSMeet Video Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=KSMeet-Video-Chat&theme=dark"></a>
+
+</p>
+<br><br>
+
+
+-->
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal811&theme=dark" alt="kuntal811" /></p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuntal811&theme=dark" alt="kuntal811" /></a> </p>
