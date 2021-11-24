@@ -95,9 +95,8 @@
 
 <br><br>
 
+<p></p>
 
-
-<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal811&theme=dark" alt="kuntal811" /></p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuntal811&theme=dark" alt="kuntal811" /></a> </p>
