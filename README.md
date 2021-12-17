@@ -57,7 +57,7 @@
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=474A8A)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=Codeigniter&logoColor=DD4814))
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=Codeigniter&logoColor=DD4814)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
