@@ -13,13 +13,15 @@
 -->
 - 🌱 I’m currently working as **Full Stack Developer** at *Code Uplers*
 
-- 🔭 I’m currently working on **two** personal projects and **two** freelance project
+<!-- 🔭 I’m currently working on **two** personal projects and **two** freelance project -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunta811](https://github.com/kuntal811)
 
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **kuntalsarkar010@gmail.com**
+
+- 🌐 Portfolio - [https://kuntalsarkar.live](https://kuntalsarkar.live)
 
 <hr>
 
@@ -83,19 +85,21 @@
 <h2 align="center">My Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/kuntal811/automatic-attendance-using-face-recognition" title="Auto Attendance using Face Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=automatic-attendance-using-face-recognition&theme=dark"></a>
-    <a align="left" href="https://github.com/kuntal811/KSMeet-Video-Chat" title="KSMeet Video Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=KSMeet-Video-Chat&theme=dark"></a>
-
+  <a align="left" href="https://github.com/kuntal811/downtimeAlert" title="Downtime Alert"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=downtimeAlert&theme=dark"></a>
+    <a align="left" href="https://github.com/kuntal811/Easy-Resume" title="Easy Resume App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=Easy-Resume&theme=dark"></a>
 </p>
 <br><br>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/kuntal811/PHP-MVC-Framework" title="MVC Framework - PHP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=automatic-attendance-using-face-recognition&theme=dark"></a>
+  <a align="left" href="https://github.com/kuntal811/news24" title="news24"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=news24&theme=dark"></a>
+  <a align="left" href="https://github.com/kuntal811/automatic-attendance-using-face-recognition" title="automatic attendance using face recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=automatic-attendance-using-face-recognition&theme=dark"></a>
 </p>
-
+<p width="100%" align="center">
+    <a align="left" href="https://github.com/kuntal811/KSMeet-Video-Chat" title="KSMeet Video Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=KSMeet-Video-Chat&theme=dark"></a>
+  <a align="left" href="https://github.com/kuntal811/PHP-MVC-Framework" title="KSMeet Video Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=PHP-MVC-Framework&theme=dark"></a>
+</p>
 <br><br>
-
-<p></p>
+<br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal811&theme=dark" alt="kuntal811" /></p>
 <!--
