@@ -1,17 +1,11 @@
 
 <h1 align="center">Hey, I'm Kuntal Sarkar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <br>
-<!--
-<img src="sayhi.gif" width= 350px>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-19&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
--->
-<!-- [![linkedin badge](https://img.shields.io/badge/Umang_Aggarwal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/umang-aggarwal537) </p>-->
 
 <!--
 ### <img src="aboutme.gif" width=45px >About Me:
 -->
-- 🌱 I’m currently working as **Full Stack Developer** at *Code Uplers*
+- 🌱 I’m currently working as **Software Developer Intern** at *Sarcon Technology Pvt. Ltd*
 
 <!-- 🔭 I’m currently working on **two** personal projects and **two** freelance project -->
 
