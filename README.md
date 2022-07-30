@@ -5,7 +5,7 @@
 <!--
 ### <img src="aboutme.gif" width=45px >About Me:
 -->
-- 🌱 I’m currently working as **Software Developer Intern** at *Sarcon Technology Pvt. Ltd*
+- 🌱 I’m currently working as **Software Development Engineer** at *Sarcon Technology Pvt. Ltd*
 
 <!-- 🔭 I’m currently working on **two** personal projects and **two** freelance project -->
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **kuntalsarkar010@gmail.com**
+- 📫 How to reach me **hello@kuntalsarkar.in**
 
-- 🌐 Portfolio - [https://kuntalsarkar.live](https://kuntalsarkar.live)
+- 🌐 Portfolio - [https://kuntalsarkar.in](https://kuntalsarkar.in)
 
 <hr>
 
