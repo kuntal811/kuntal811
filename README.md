@@ -21,8 +21,10 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://twitter.com/kuntal811" target="blank"><img align="center" style="background-color:#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kuntal811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kuntal811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kuntal811" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kuntal811" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="kuntal811" /></a>
+<a href="https://twitter.com/kuntal811" target="_blank"><img align="center" style="color:red" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="kuntal811" /></a>
+<a href="https://facebook.com/kuntal811" target="_blank"><img align="center" style="color:red" src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" alt="kuntal811" /></a>
+<a href="https://instagram.com/kuntal_adi" target="_blank"><img align="center" style="color:red" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="kuntal811" /></a>
 </p>
 <!--
 ### 📢 Find me elsewhere:
@@ -41,37 +43,38 @@
 
 ### 🖥️ Languages & Technologies:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0865A7)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=65B0F0)
+![HTML5](https://img.shields.io/badge/-HTML5-e8e8e8?style=flat-square&logo=html5&logoColor=#e34c26)
+![CSS3](https://img.shields.io/badge/-CSS3-e8e8e8?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-e8e8e8?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e8e8e8?&logo=JavaScript)
+![jQuery](https://img.shields.io/badge/-jQuery-e8e8e8?&logo=jQuery&logoColor=0865A7)
+![React](https://img.shields.io/badge/-React-e8e8e8?&logo=React)
+![Flutter](https://img.shields.io/badge/-Flutter-e8e8e8?&logo=Flutter&logoColor=65B0F0)
 
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=474A8A)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=Codeigniter&logoColor=DD4814)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-e8e8e8?&logo=c%2b%2b&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-e8e8e8?&e8e8e8le8e8e8ogo=PHP&logoColor=474A8A)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-e8e8e8?&logo=Codeigniter&logoColor=DD4814)
+![Laravel](https://img.shields.io/badge/-Laravel-e8e8e8?&logo=Laravel&logoColor=DD4814)
+![Python](https://img.shields.io/badge/-Python-e8e8e8?&logo=Python)
+![C](https://img.shields.io/badge/-C-e8e8e8?&logo=C)
+![Java](https://img.shields.io/badge/-Java-e8e8e8?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-e8e8e8?&logo=MySQL)
 
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-e8e8e8?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-e8e8e8?style=flat-square&logo=github)
 
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-e8e8e8?style=flat-square&logo=Figma)
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-e8e8e8?&logo=Linux)
 
 
 
 <!-- Mostly Used Languages -->
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kuntal811&show_icons=true&theme=dark&icon_color=6392DF" alt="kuntal811 github stats"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kuntal811&show_icons=true&theme=light&icon_color=6392DF" alt="kuntal811 github stats"/>
 
 <!-- My Github Stats -->
-<img  src="https://github-readme-stats.vercel.app/api?username=kuntal811&show_icons=true&theme=dark&icon_color=6392DF" alt="kuntal811 github stats"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=kuntal811&show_icons=true&theme=light&icon_color=6392DF" alt="kuntal811 github stats"/>
 
 
 
@@ -79,23 +82,23 @@
 <h2 align="center">My Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/kuntal811/downtimeAlert" title="Downtime Alert"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=downtimeAlert&theme=dark"></a>
-    <a align="right" href="https://github.com/kuntal811/Easy-Resume" title="Easy Resume App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=Easy-Resume&theme=dark"></a>
+  <a align="left" href="https://github.com/kuntal811/downtimeAlert" title="Downtime Alert"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=downtimeAlert&theme=light"></a>
+    <a align="right" href="https://github.com/kuntal811/Easy-Resume" title="Easy Resume App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=Easy-Resume&theme=light"></a>
 </p>
 <br><br>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/kuntal811/news24" title="news24"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=news24&theme=dark"></a>
-  <a align="right" href="https://github.com/kuntal811/automatic-attendance-using-face-recognition" title="automatic attendance using face recognition"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=automatic-attendance-using-face-recognition&theme=dark"></a>
+  <a align="left" href="https://github.com/kuntal811/news24" title="news24"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=news24&theme=light"></a>
+  <a align="right" href="https://github.com/kuntal811/automatic-attendance-using-face-recognition" title="automatic attendance using face recognition"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=automatic-attendance-using-face-recognition&theme=light"></a>
 </p>
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/kuntal811/KSMeet-Video-Chat" title="KSMeet Video Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=KSMeet-Video-Chat&theme=dark"></a>
-  <a align="right" href="https://github.com/kuntal811/PHP-MVC-Framework" title="KSMeet Video Chat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=PHP-MVC-Framework&theme=dark"></a>
+    <a align="left" href="https://github.com/kuntal811/KSMeet-Video-Chat" title="KSMeet Video Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=KSMeet-Video-Chat&theme=light"></a>
+  <a align="right" href="https://github.com/kuntal811/PHP-MVC-Framework" title="KSMeet Video Chat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kuntal811&repo=PHP-MVC-Framework&theme=light"></a>
 </p>
 
 
 -->
-<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal811&theme=dark" alt="kuntal811" /></p>
+<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal811&theme=light" alt="kuntal811" /></p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuntal811&theme=dark" alt="kuntal811" /></a> </p>
 -->
